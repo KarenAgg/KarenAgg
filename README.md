@@ -1,6 +1,7 @@
 ### Hey! 
 
 - 🌱 I’m currently learning C#
+- 🐱‍👤 I'm Working on a project manager
 
 <div align="center">
   <a href="https://github.com/KarenAgg">
