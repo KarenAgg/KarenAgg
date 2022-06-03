@@ -1,6 +1,6 @@
 ### Hey! 
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python and JavaScript
 - 🐱‍👤 I'm Working on a project manager
 
 
