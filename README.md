@@ -12,5 +12,4 @@
 
   
 
-   ![Snake animation](https://github.com/KarenAgg/KarenAgg/blob/output/github-contribution-grid-snake.svg)
 
