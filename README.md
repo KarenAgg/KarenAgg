@@ -1,7 +1,7 @@
 ### Hey! 
 
 - 🌱 I’m currently learning HTML5, CSS and JavaScript
-- 🐱‍👤 I'm Working on a project manager
+- 🐱‍👤 I'm Working on my portfolio
 
 
 <div align="center">
