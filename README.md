@@ -1,7 +1,7 @@
 ### Hey! 
 
-- 🌱 I’m currently learning UI/UX Design and JavaScript
-- 🐱‍👤 I'm Working on my portfolio
+- 🌱 Currently learning UI/UX Design and JavaScript
+- 🐱‍👤 Working on my portfolio
 
 
 <div align="center">
