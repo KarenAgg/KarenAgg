@@ -2,6 +2,7 @@
 
 - 🌱 Currently learning UI/UX Design and JavaScript
 - 🐱‍👤 Working on my portfolio
+- 📍  Brisbane - Austrália
 
 
 <div align="center">
