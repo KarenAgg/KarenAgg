@@ -24,10 +24,8 @@ Frontend developer based in Brisbane, Australia, originally from Brazil. I build
 A photography studio landing page — clean layout, editorial typography, built with HTML/CSS/JS.
 
 **TrailStore**
+**[Trail Store](https://karenagg.github.io/trail-store/)**
 An e-commerce concept for a camping & hiking gear store, with a full multi-step checkout flow (delivery → payment).
-
-**BloomFit**
-A personal trainer landing page inspired by bold, high-contrast fitness branding — built for my cousin, who's a real personal trainer.
 
 *More on my [portfolio](https://karenagg.github.io/Portfolio/) →*
 
