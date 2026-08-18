@@ -23,7 +23,6 @@ Frontend developer based in Brisbane, Australia, originally from Brazil. I build
 **[Lumière Studio](https://karenagg.github.io/lumiere-studio/)**
 A photography studio landing page — clean layout, editorial typography, built with HTML/CSS/JS.
 
-**TrailStore**
 **[Trail Store](https://karenagg.github.io/trail-store/)**
 An e-commerce concept for a camping & hiking gear store, with a full multi-step checkout flow (delivery → payment).
 
