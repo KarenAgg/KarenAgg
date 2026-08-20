@@ -3,7 +3,6 @@
 Frontend developer based in Brisbane, Australia, originally from Brazil. I build clean, purposeful interfaces and I'm currently focused on landing a remote frontend role.
 
 - 🌱 Learning React and deepening my JavaScript fundamentals
-- 🛠️ Co-founding **Wimerse Studio**, a web design & branding agency for small Australian businesses
 - 📎 Portfolio: [karenagg.github.io/Portfolio](https://karenagg.github.io/Portfolio/)
 
 ---
